@@ -1,0 +1,57 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: #ddd;
+}
+.divdadiv{
+max-width: 1100px;
+background-color: #fff;
+padding: 30px auto;
+margin: 30px auto;
+}
+.header{
+    text-align: center;
+    padding: 25px 0px;
+    font-style: italic;
+}
+.biografia{
+    margin: 25px 0px;
+    text-align: center;
+    border-bottom: double #ddd;
+}
+.subtittle{
+    padding: 25px;
+}
+.text{
+    font-style: italic;
+    padding: 25px;
+}
+.tittle{
+text-align: center;
+}
+.membros2{
+    padding:25px ;
+}
+.final{
+    padding: 25px;
+}
+.membros{
+    margin: 25px 0px;
+    /* text-align: center; */
+    border-bottom: double #ddd;
+}
+.negrito1{
+    font-weight: bold;
+    margin-top: auto;
+    text-align: center;
+    font-size: 13px;
+    /* margin:14px; */
+}
+.imagens{
+    text-align: center;
+}
+.musicas{
+    border-top: double #ddd;
+}
+.negrito{
+    font-weight: bold;
+}
